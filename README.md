@@ -1,4 +1,4 @@
-# VAGAS-TECH-AQUI
+# VAGAS-TECH-AQUI ⤵️
 
 Olá tudo bem? Eu me chamo Patrícia, sou recrutadora tech! 
 
