@@ -4,9 +4,8 @@ Olá tudo bem? Eu me chamo Patrícia, sou recrutadora tech!
 
 Abaixo, apresento as vagas que estou trabalhando no momento...
 
- 🚩Engenheiro DevOps Sênior (internacional / PJ) 
- 
- 🚩Software Development Engineer in Test (internacional / PJ) 
+ 🚩Desenvolvedor .NET e C# (Sênior/Epecialista) Remoto/CLT
+ Cadastre-se aqui: https://jobs.quickin.io/rhf/jobs/62ed445fab11ec001ae125fa
  
  🚩Analista RPA Jr/Pl/Hibrida/SP/CLT
  Cadastre-se aqui: https://jobs.quickin.io/rhf/jobs/62ed4713578ee4001d495be8
@@ -17,13 +16,8 @@ Abaixo, apresento as vagas que estou trabalhando no momento...
  🚩Fullstack Java Sênior/PJ
  Cadastre-se aqui: https://jobs.quickin.io/rhf/jobs/627d58525b2c5f001cbdd206
  
- 
  🚩Desenvolvedor Angular Pleno (Java) CLT 
  Cadastre-se aqui: https://jobs.quickin.io/rhf/jobs/631252c7505f640015b1798e
-
-
-Atenção! Para as vagas internacionais, o currículo precisa estar em inglês e deve ser enviado para rh.vagatech@gmail.com
-Lembre-se, ao enviar seu currículo em inglês vocé autoriza e está ciente que será utilizado para processo seletivo em aberto na Plataforma Revelo Network da qual sou recrutadora parceira.
          
 Bora?😉😄🚀🎯
 
