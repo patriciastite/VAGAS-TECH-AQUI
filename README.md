@@ -5,7 +5,7 @@
 
 Olá tudo bem? Eu me chamo Patrícia, sou recrutadora tech! 
 
-Abaixo, apresento as vagas que estou trabalhando no momento...
+Segue abaixo as vagas que estou trabalhando no momento...
 
  🚩Desenvolvedor .NET e C# (Sênior/Epecialista) Remoto/CLT
  Cadastre-se aqui: https://jobs.quickin.io/rhf/jobs/62ed445fab11ec001ae125fa
