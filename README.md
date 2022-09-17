@@ -1,5 +1,8 @@
 # VAGAS-TECH-AQUI ⤵️
 
+![Ter um profissional bem treinado faz diferença_](https://user-images.githubusercontent.com/110489835/189919870-dd60424e-9b9d-4c45-af66-00f3bf0377d8.jpg)
+
+
 Olá tudo bem? Eu me chamo Patrícia, sou recrutadora tech! 
 
 Abaixo, apresento as vagas que estou trabalhando no momento...
@@ -20,7 +23,3 @@ Abaixo, apresento as vagas que estou trabalhando no momento...
  Cadastre-se aqui: https://jobs.quickin.io/rhf/jobs/631252c7505f640015b1798e
          
 Bora?😉😄🚀🎯
-
-
-
-![Ter um profissional bem treinado faz diferença_](https://user-images.githubusercontent.com/110489835/189919870-dd60424e-9b9d-4c45-af66-00f3bf0377d8.jpg)
