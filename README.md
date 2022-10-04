@@ -6,11 +6,11 @@
 Oie, tudo bem? 
 Eu me chamo Patrícia, sou recrutadora tech buscando talento para a seguinte posição:
 
-🚩Desenvolvedor .NET e C# (Sênior/Epecialista) Remoto/CLT
+🚩Desenvolvedor Java Fullstack Sênior / PJ / Remoto (se for do RJ algumas vezes pontuais na empresa).
 
 Se você está dentro do perfil, então aplique-se a essa vaga clicando no link abaixo...
  
- https://jobs.quickin.io/rhf/jobs/62ed445fab11ec001ae125fa
+https://jobs.quickin.io/rhf/jobs/627d58525b2c5f001cbdd206
  
          
 Bora?😉😄🚀🎯
