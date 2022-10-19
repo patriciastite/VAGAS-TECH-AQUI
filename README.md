@@ -4,13 +4,13 @@
 
 
 Oie, tudo bem? 
-Eu me chamo Patrícia, sou recrutadora tech buscando talento para a seguinte posição:
+Eu me chamo Patrícia, sou recrutadora tech na Talents Club e estou com as seguintes posições em aberto...
+Se você está dentro do perfil, então clica no link e vem!!!!😉😄🚀🎯
 
-🚩Desenvolvedor Java Fullstack Sênior / PJ / Remoto (se for do RJ algumas vezes pontuais na empresa).
+🚩Desenvolvedor .NET e C# (sênior/especialista)
+Cadastre-se aqui: https://jobs.quickin.io/talentsclub/jobs/62ed445fab11ec001ae125fa
 
-Se você está dentro do perfil, então aplique-se a essa vaga clicando no link abaixo...
- 
-https://jobs.quickin.io/rhf/jobs/627d58525b2c5f001cbdd206
- 
-         
-Bora?😉😄🚀🎯
+🚩Analista de ERP PL (Foco em D365- módulos financeiros e contábeis)
+Cadastre-se aqui: https://jobs.quickin.io/talentsclub/jobs/633adf1d978507001518b4af
+          
+
